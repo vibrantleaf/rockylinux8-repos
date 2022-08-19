@@ -1,6 +1,9 @@
 # rockylinux8-repos
 scripts to add some dnf /yum repositories to rocky linux 8
 
+## Note
+This may also work on other CentOS likes, *(like alma linux)* but i have no plans on testing any other rel rebuild 
+
 ### rockyrepos.sh
 enables serveral repositorys endorsed by rocky linux as well as the nonfree and tainted rpmfusion repositorys <br>
 Adds:
