@@ -17,9 +17,9 @@ Adds:
 ### rocky-firmware-elkernel.sh
 Installs firmware from rpm fusion and elrepo's kernel-lt (LTS)
 - \*-firmware 
-- kernel-lt
-- kernel-lt-headers
-- kernel-lt-devel
+- el kernel-lt
+- el kernel-lt-headers
+- el kernel-lt-devel
 
 ### rocky-nvidia-driver.sh
 Installs the dependaceys for the nvidia nvidia driver installer
