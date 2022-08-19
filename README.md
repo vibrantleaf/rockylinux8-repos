@@ -15,7 +15,7 @@ Adds:
 - rpmfusion-nonfree-tainted
 
 ### rocky-firmware-elkernel.sh
-Installs firmware from rpm fusion and elrepo's kernel-lt
+Installs firmware from rpm fusion and elrepo's kernel-lt (LTS)
 - \*-firmware 
 - kernel-lt
 - kernel-lt-headers
